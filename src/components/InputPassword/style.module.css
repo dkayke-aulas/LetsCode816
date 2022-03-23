@@ -1,0 +1,9 @@
+.input {
+    border-radius: 4px;
+    border: 2px solid purple;
+    height: 30px;
+    width: 100%;
+    box-sizing: border-box;
+    color: tomato;
+    margin: 5px 0;
+}
